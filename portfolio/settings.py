@@ -27,7 +27,7 @@ SECRET_KEY = 'g=z5#y(yj=4143flpkxxj7((%c7v^yn6=$seklgan+kjmu*%y^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jackgrate.herokuapp.com']
 
 
 # Application definition
